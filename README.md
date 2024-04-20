@@ -14,6 +14,6 @@ A light weight Rainmeter skin suit.
 ## The player
 The media player included uses [WebNowPlaying](https://wnp.keifufu.dev/extension/getting-started). Both browser extension and Rainmeter plugin must be installed.
 
-##Credits
+## Credits
 Special thanks to people on [Rainmeter discord server](https://discord.gg/rainmeter) who helped me with this project.
 Font used: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono)
