@@ -12,7 +12,7 @@ A light weight Rainmeter skin suit.
 - `.ico` icons included (in `@Resources\Icons` folder)
 
 ## The player
-The media player included uses [WebNowPlaying](https://wnp.keifufu.dev/extension/getting-started). Both browser extension and Rainmeter plugin must be installed.
+The media player included uses [WebNowPlaying](https://wnp.keifufu.dev/extension/getting-started). Both browser extension and [Rainmeter plugin](https://github.com/keifufu/WebNowPlaying-Rainmeter/releases/tag/2.0.7) must be installed.
 
 ## Credits
 Special thanks to people on [Rainmeter discord server](https://discord.gg/rainmeter) who helped me with this project.
