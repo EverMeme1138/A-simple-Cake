@@ -3,7 +3,7 @@ A light weight Rainmeter skin suit.
 
 ![image](https://github.com/EverMeme1138/A-simple-Cake/blob/main/image.png)
 
-## Minimum Requirements:
+## Minimum Requirements
 - Rainmeter 4.5.18
 
 ## Features
