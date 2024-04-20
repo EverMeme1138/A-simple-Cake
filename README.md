@@ -6,12 +6,12 @@ A light weight Rainmeter skin suit.
 ## Minimum Requirements:
 - Rainmeter 4.5.18
 
-##Features
+## Features
 - Light Weight
 - A skin, `background.ini`, is included for you to customize the background easily.
 - `.ico` icons included (in `@Resources\Icons` folder)
 
-##The player
+## The player
 The media player included uses [WebNowPlaying](https://wnp.keifufu.dev/extension/getting-started). Both browser extension and Rainmeter plugin must be installed.
 
 ##Credits
