@@ -3,9 +3,6 @@ A light weight Rainmeter skin suit.
 
 ![image](https://github.com/EverMeme1138/A-simple-Cake/blob/main/image.png)
 
-## Minimum Requirements
-- Rainmeter 4.5.18
-
 ## Features
 - Light Weight
 - A skin, `background.ini`, is included for you to customize the background easily.
